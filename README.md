@@ -1,4 +1,7 @@
 # Zeusz-DE-mySQL
 Adóraktár fejlesztés mySQL használatával...
 
-![image](https://user-images.githubusercontent.com/5490310/231398622-8e5259f9-0934-458e-b259-21753b04da17.png)
+![image](https://github.com/programozas-kft/Zeusz-DE-SQL/assets/5490310/55d39c1e-6a40-43d4-b3ea-3f3f64af17a4)
+
+
+
